@@ -924,7 +924,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetAppleMVC/Pods-RedCarpetAppleMVC-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-RedCarpetAppleMVC/Pods-RedCarpetAppleMVC-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Unbox/Unbox.framework",
 			);
@@ -935,7 +935,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetAppleMVC/Pods-RedCarpetAppleMVC-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RedCarpetAppleMVC/Pods-RedCarpetAppleMVC-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6214ADC9D7B607A719DD982A /* [CP] Check Pods Manifest.lock */ = {
@@ -962,7 +962,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetRedux/Pods-RedCarpetRedux-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-RedCarpetRedux/Pods-RedCarpetRedux-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Unbox/Unbox.framework",
 			);
@@ -973,7 +973,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetRedux/Pods-RedCarpetRedux-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RedCarpetRedux/Pods-RedCarpetRedux-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		83D2B696A8E0434E94ED6AEB /* [CP] Check Pods Manifest.lock */ = {
@@ -1000,7 +1000,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetVIPER/Pods-RedCarpetVIPER-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-RedCarpetVIPER/Pods-RedCarpetVIPER-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Unbox/Unbox.framework",
 			);
@@ -1011,7 +1011,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetVIPER/Pods-RedCarpetVIPER-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RedCarpetVIPER/Pods-RedCarpetVIPER-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AF76FA8E0B805AB009126C6B /* [CP] Check Pods Manifest.lock */ = {
@@ -1038,7 +1038,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetMVVM/Pods-RedCarpetMVVM-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-RedCarpetMVVM/Pods-RedCarpetMVVM-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Unbox/Unbox.framework",
 			);
@@ -1049,7 +1049,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetMVVM/Pods-RedCarpetMVVM-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RedCarpetMVVM/Pods-RedCarpetMVVM-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C61848E4AFCA72D35CD42B9D /* [CP] Check Pods Manifest.lock */ = {
@@ -1094,7 +1094,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetMVC/Pods-RedCarpetMVC-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-RedCarpetMVC/Pods-RedCarpetMVC-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Unbox/Unbox.framework",
 			);
@@ -1105,7 +1105,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RedCarpetMVC/Pods-RedCarpetMVC-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RedCarpetMVC/Pods-RedCarpetMVC-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

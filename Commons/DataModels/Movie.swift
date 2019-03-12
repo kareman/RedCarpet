@@ -40,6 +40,6 @@ extension Movie: Unboxable {
         self.artworkURL = try unboxer.unbox(key: "artworkUrl100")
         self.name = try unboxer.unbox(key: "name")
         self.releaseDate = try unboxer.unbox(key: "releaseDate", formatter: Movie.releaseDateFormatter)
-        self.copyright = unboxer.unbox(key: "copyright")
+        self.copyright = try? unboxer.unbox(key: "copyright")
     }
 }

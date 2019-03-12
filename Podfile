@@ -6,7 +6,7 @@ target 'Commons' do
   platform :ios, '11.0'
   
   pod 'Alamofire', '~> 4.7'
-  pod 'Unbox', '~> 3.0'
+  pod 'Unbox', :git => 'https://github.com/kareman/Unbox.git', :branch => 'Swift5'
 end
 
 target 'RedCarpetMVC' do
