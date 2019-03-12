@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -206,9 +206,9 @@
 		2D955205321ABF60D934DAB7DAB64CE8 /* Pods-Commons.mock.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Commons.mock.xcconfig"; sourceTree = "<group>"; };
 		2F34FB8FD21F245E31B2EAB66A9ADE21 /* UInt64+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UInt64+Unbox.swift"; path = "Sources/UInt64+Unbox.swift"; sourceTree = "<group>"; };
 		3169BC9A217326326F7141C1F30FC55F /* Pods-RedCarpetMVVM.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RedCarpetMVVM.modulemap"; sourceTree = "<group>"; };
-		32EC2FD0B2AC333E5CD76DC4F926BAD9 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		32EC2FD0B2AC333E5CD76DC4F926BAD9 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		34DEA40ACC62A36F66EF4B14C5C4ABFB /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
-		36F215E3C2741D9180BAC28D5363AB8C /* Unbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Unbox.framework; path = Unbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		36F215E3C2741D9180BAC28D5363AB8C /* Unbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Unbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37EFE9DB44A364C1B7A9C3BE7F6258CE /* Pods-RedCarpetVIPER-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RedCarpetVIPER-acknowledgements.plist"; sourceTree = "<group>"; };
 		391F97A48B28888074E511480EB9A14F /* SessionDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionDelegate.swift; path = Source/SessionDelegate.swift; sourceTree = "<group>"; };
 		39A135BECC7AA313E56C06583B91D6AA /* UnboxableByTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UnboxableByTransform.swift; path = Sources/UnboxableByTransform.swift; sourceTree = "<group>"; };
@@ -226,7 +226,7 @@
 		4634943C8E79E4B66C313584B05B06C5 /* Optional+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Optional+Unbox.swift"; path = "Sources/Optional+Unbox.swift"; sourceTree = "<group>"; };
 		46C2D610FFCC9BF3AB6C7D9C83716D5C /* String+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "String+Unbox.swift"; path = "Sources/String+Unbox.swift"; sourceTree = "<group>"; };
 		4742E7BD63E9144C1E6DDA9A8711B12E /* Pods-RedCarpetMVC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RedCarpetMVC-dummy.m"; sourceTree = "<group>"; };
-		49C0D9DBBA0739CEDF5BECA477275A7D /* Pods_RedCarpetMVVM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RedCarpetMVVM.framework; path = "Pods-RedCarpetMVVM.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		49C0D9DBBA0739CEDF5BECA477275A7D /* Pods_RedCarpetMVVM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RedCarpetMVVM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A1E136E462859D4114D60B3EF620ABC /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
 		50D90BCE1019723C616CB4E654E0D66D /* UInt+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UInt+Unbox.swift"; path = "Sources/UInt+Unbox.swift"; sourceTree = "<group>"; };
 		534A13416A833DF23CFF42A463B31EC7 /* Unboxer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Unboxer.swift; path = Sources/Unboxer.swift; sourceTree = "<group>"; };
@@ -240,7 +240,7 @@
 		63A2D5AC3C3B04CD48FEB609811A9A23 /* UnboxContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UnboxContainer.swift; path = Sources/UnboxContainer.swift; sourceTree = "<group>"; };
 		63A3772D63F98115F8321BCB26C06032 /* Pods-RedCarpetVIPER.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetVIPER.release.xcconfig"; sourceTree = "<group>"; };
 		63C9B8672AC6452B13CD114A3C9A2877 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		63D37C9AD3068918B645691DCAE6D7E7 /* Pods_Commons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Commons.framework; path = "Pods-Commons.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63D37C9AD3068918B645691DCAE6D7E7 /* Pods_Commons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Commons.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BA5205C8D7EC7629164FC56FF3DB9A0 /* Pods-RedCarpetRedux.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetRedux.release.xcconfig"; sourceTree = "<group>"; };
 		6D8FAE1838761F0BA5F68C69C1CD5C8B /* Pods-RedCarpetVIPER.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetVIPER.debug.xcconfig"; sourceTree = "<group>"; };
 		6E224CF1C61757548EC8155F3F4E17CD /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
@@ -250,9 +250,9 @@
 		77ED313A7F5490E067EBC2DF05F7E1A4 /* Unboxable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Unboxable.swift; path = Sources/Unboxable.swift; sourceTree = "<group>"; };
 		79751688EC8483264FE7059696B3A6A5 /* Array+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Array+Unbox.swift"; path = "Sources/Array+Unbox.swift"; sourceTree = "<group>"; };
 		7AF7BC9E7731AA2E2E99608D78026A43 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7ED3E8522837D275EE426417F5A8FF4A /* Pods_RedCarpetVIPER.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RedCarpetVIPER.framework; path = "Pods-RedCarpetVIPER.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ED3E8522837D275EE426417F5A8FF4A /* Pods_RedCarpetVIPER.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RedCarpetVIPER.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		81FFEC62EBD6BEDEE13036E4EEC9EFAB /* UnboxPathNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UnboxPathNode.swift; path = Sources/UnboxPathNode.swift; sourceTree = "<group>"; };
-		8328E8293869DD2B5DAB707666B76472 /* Pods_RedCarpetAppleMVC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RedCarpetAppleMVC.framework; path = "Pods-RedCarpetAppleMVC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8328E8293869DD2B5DAB707666B76472 /* Pods_RedCarpetAppleMVC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RedCarpetAppleMVC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85B641BC22E978FF617974658DAFED7B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8719525DBCA7CFB19BB1960F5C26F62D /* Decimal+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Decimal+Unbox.swift"; path = "Sources/Decimal+Unbox.swift"; sourceTree = "<group>"; };
 		8C65B9EF03AB64B58B431DCBAEC77747 /* Pods-RedCarpetAppleMVC.mock.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetAppleMVC.mock.xcconfig"; sourceTree = "<group>"; };
@@ -260,7 +260,7 @@
 		8FF691C0D5F73427A44846B84092FF26 /* Pods-Commons-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Commons-acknowledgements.plist"; sourceTree = "<group>"; };
 		912327D9B7E68ED85FA7BD5C247DD218 /* Pods-RedCarpetVIPER.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RedCarpetVIPER.modulemap"; sourceTree = "<group>"; };
 		93764F73DD261EA72861B561AE48E535 /* CGFloat+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CGFloat+Unbox.swift"; path = "Sources/CGFloat+Unbox.swift"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9473C8AF1C8D29A3AFF02FFED2A8E22E /* Pods-RedCarpetMVVM.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetMVVM.release.xcconfig"; sourceTree = "<group>"; };
 		9594A7A3DF0B0DFBA2E2207CDFEEB4E4 /* TaskDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TaskDelegate.swift; path = Source/TaskDelegate.swift; sourceTree = "<group>"; };
 		9611ED6BDD09DF54EACCBCDF15029396 /* Int64+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Int64+Unbox.swift"; path = "Sources/Int64+Unbox.swift"; sourceTree = "<group>"; };
@@ -271,7 +271,7 @@
 		9958986F14261B43D2ABA5C4B048F245 /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
 		996715113C26018EAFB16FE7CEF35986 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		9B17F0734D4C0E8B01C74A322FE016EE /* Pods-RedCarpetVIPER-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RedCarpetVIPER-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9D148F9F6FFB4DACECE3AA6D9D6D361A /* Pods_RedCarpetRedux.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RedCarpetRedux.framework; path = "Pods-RedCarpetRedux.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D148F9F6FFB4DACECE3AA6D9D6D361A /* Pods_RedCarpetRedux.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RedCarpetRedux.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D1EEC32127E20674B285ADC72357C70 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F39A7B7F3162DB33AEE32395A774CC8 /* Bool+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Bool+Unbox.swift"; path = "Sources/Bool+Unbox.swift"; sourceTree = "<group>"; };
 		9F6A7524BE869D85CC5486966A98937C /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Request.swift; path = Source/Request.swift; sourceTree = "<group>"; };
@@ -311,7 +311,7 @@
 		E24C52A94332FD8F971EF59BAE82B4F9 /* JSONSerialization+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "JSONSerialization+Unbox.swift"; path = "Sources/JSONSerialization+Unbox.swift"; sourceTree = "<group>"; };
 		E31FD8205673B00AF24E3231DADAA8CA /* UnboxCompatible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UnboxCompatible.swift; path = Sources/UnboxCompatible.swift; sourceTree = "<group>"; };
 		E405FFF8F06EF394BC71905B1DBB0C61 /* Set+Unbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Set+Unbox.swift"; path = "Sources/Set+Unbox.swift"; sourceTree = "<group>"; };
-		E45F4EA27D81F5F11F49ED35384EA4B1 /* Pods_RedCarpetMVC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RedCarpetMVC.framework; path = "Pods-RedCarpetMVC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45F4EA27D81F5F11F49ED35384EA4B1 /* Pods_RedCarpetMVC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RedCarpetMVC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B35C6C9BC58A8F3F5482EC2EB82A96 /* Pods-RedCarpetAppleMVC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetAppleMVC.release.xcconfig"; sourceTree = "<group>"; };
 		E5D26E98043AE0C0012ABCA3C5BBA165 /* Pods-RedCarpetRedux.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RedCarpetRedux.debug.xcconfig"; sourceTree = "<group>"; };
 		E91C2673B9A7E0875F598333C296B39D /* UnboxableRawType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UnboxableRawType.swift; path = Sources/UnboxableRawType.swift; sourceTree = "<group>"; };
@@ -627,7 +627,6 @@
 				8EBCC8156DA94209D8D1F2E0FAFE0B75 /* Validation.swift */,
 				4DDFAD5459874ACB44B68644E4A7313D /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -678,7 +677,6 @@
 				D2FCCFDDDBB34A57485F2E1A07935ACE /* URL+Unbox.swift */,
 				2E2C0064B129CCFF070392ADEB60DD98 /* Support Files */,
 			);
-			name = Unbox;
 			path = Unbox;
 			sourceTree = "<group>";
 		};
@@ -916,13 +914,22 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					189E1CC8A940CB17A3D099E44F41293F = {
+						LastSwiftMigration = 1020;
+					};
+					83034287C65C4B5542F2EC91EC2CC3E4 = {
+						LastSwiftMigration = 1020;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = 7E3307187E3E314AB1B667A31663F5C6 /* Products */;
@@ -1363,7 +1370,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1426,8 +1433,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -1597,7 +1603,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1628,7 +1634,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1796,8 +1802,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -1861,7 +1866,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1928,7 +1933,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2028,7 +2033,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
