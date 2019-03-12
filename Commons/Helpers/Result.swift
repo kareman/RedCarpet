@@ -15,7 +15,7 @@ public enum Result<Value> {
 
 public extension Result {
     
-    public var isSuccess: Bool {
+    var isSuccess: Bool {
         switch self {
         case .success(_):
             return true
@@ -24,7 +24,7 @@ public extension Result {
         }
     }
     
-    public var value: Value? {
+    var value: Value? {
         switch self {
         case .success(let value):
             return value
@@ -33,7 +33,7 @@ public extension Result {
         }
     }
     
-    public var error: Error? {
+    var error: Error? {
         switch self {
         case .success(_):
             return nil
@@ -45,7 +45,7 @@ public extension Result {
 
 public extension Result {
     
-    public func map<T>(_ transform: (Value) -> T) -> Result<T> {
+    func map<T>(_ transform: (Value) -> T) -> Result<T> {
         switch self {
         case .success(let value):
             let newValue = transform(value)
@@ -55,7 +55,7 @@ public extension Result {
         }
     }
     
-    public func flatMap<T>(_ transform: (Value) -> Result<T>) -> Result<T> {
+    func flatMap<T>(_ transform: (Value) -> Result<T>) -> Result<T> {
         switch self {
         case .success(let value):
             return transform(value)

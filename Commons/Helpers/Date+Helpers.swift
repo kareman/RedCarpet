@@ -10,7 +10,7 @@ import Foundation
 
 public extension Date {
     
-    public func extract(_ component: Calendar.Component) -> Int {
+    func extract(_ component: Calendar.Component) -> Int {
         let calendar = Calendar.current
         return calendar.component(component, from: self)
     }
